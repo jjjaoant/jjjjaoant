@@ -21,7 +21,6 @@ double findYComponent(double l1, double l2, double a1, double a2){
 double pythagoras(double a, double b){
     return sqrt(a * a + b * b);
 }
-
 void showResult(double length, double angle){
     cout << "%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%" << endl;
     cout << "Length of the resultant vector = " << length << endl;
